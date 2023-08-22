@@ -9,5 +9,6 @@
 
 # Super Fast and Accurate 3D Object Detection (230822)
 - colab code : https://www.kaggle.com/code/sakshaymahna/sfa3d/notebook
-- 원본 영상 : https://www.youtube.com/watch?v=ux7mFEiA-jU&list=PLvKEZ7B4R3OeNc2EKCfWSdvj_0LMPD2v5   
+- 원본 영상 : https://www.youtube.com/watch?v=ux7mFEiA-jU&list=PLvKEZ7B4R3OeNc2EKCfWSdvj_0LMPD2v5
+- 
 ![3dObjectdetection_Lidar](https://github.com/iampro3/AV_laneseg_detection/assets/99852881/225f5d48-ef58-40b3-9eb5-f7c5b118ba22)
